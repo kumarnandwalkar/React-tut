@@ -1,0 +1,6 @@
+commands executed till now 
+
+npm --v
+npm --v
+node --v
+npx create-react-app namaste
